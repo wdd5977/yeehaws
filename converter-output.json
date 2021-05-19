@@ -1,6 +1,30 @@
 {
-	"siteVersion": "1.128.0",
-	"monster": [
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "p4535992Races",
+				"abbreviation": "p4535992Races",
+				"full": "Community HomeBrew Races Collection",
+				"authors": [
+					"The community (Roll20,Reddit,Pinterest,ecc.) if with link put in the description of monster",
+					"Zendikar Race (https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf )",
+					"Vryloka by u/Zagorath (https://www.reddit.com/r/UnearthedArcana/comments/3tp1bm/vryloka_race_v5_final/ )",
+					"Dimaag by u/EXEvis (https://www.reddit.com/r/UnearthedArcana/comments/8cjj6d/my_take_on_a_humanoidaberration_player_race_the/)",
+					"Dhampir by Benjamin Huffman (https://www.dmsguild.com/product/176384/Dhampir-an-Original-Race-for-DD-5e )"
+				],
+				"convertedBy": [
+					"p4535992"
+				],
+				"version": "2020.12.10",
+				"url": "",
+				"targetSchema": "1.6.3"
+			}
+		],
+		"dateAdded": 1604252046,
+		"dateLastModified": 1604252046
+	},
+	"race":  [
 		{
 			"name": "Chromatic Dragonborn",
 			"source": "UA2021DraconicOptions",
